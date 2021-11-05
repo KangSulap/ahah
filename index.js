@@ -6125,7 +6125,7 @@ case "bajingan":
    if (isBanned) return reply(mess.ban)
    bapakao = body.slice(10)
    sendStickerFromUrl(from, `https://hardianto-chan.herokuapp.com/api/creator/memegen?bawah=${bapakao}&atas=bajingan&imgurl=https://telegra.ph/file/d608ec3cb57ff6b9ac708.jpg&apikey=hardianto`)
-   reply("Succes Buat Fitur Bajingan, Jangan lupa subscribe channel owner : https://youtu.be/OpVvYMn14ik")
+   reply("Succes Buat Fitur Bajingan,Btw Muka Lu Kek Kontol")
    break
 case "darkjokes":
   case "darkjoke":
